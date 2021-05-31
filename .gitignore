@@ -1,0 +1,19 @@
+/node_modules/
+/build/
+package-lock.json
+.env
+scripts
+
+node_modules
+
+#Buidler files
+cache
+artifacts
+coverage
+coverage.json
+
+node_modules
+
+#Hardhat files
+cache
+artifacts
